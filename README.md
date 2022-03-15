@@ -62,6 +62,11 @@
     <td></td>
   </tr>
 
+  <tr>
+    <td>npm</td>
+    <td><a href="https://www.npmjs.com/">Site Oficial</a></td>
+  </tr>       
+  
 
   <tr>
     <td>npm -v</td>
@@ -239,27 +244,27 @@
   </tr> 
 
   <tr>
-    <td>node docs "Nome-da-Dependência"</td>
+    <td>npm docs "Nome-da-Dependência"</td>
     <td>Exibe a documentação do site oficial da dependência informada (exemplo: axios, react, express)</td>
   </tr>   
 
   <tr>
-    <td>node home "Nome-da-Dependência"</td>
+    <td>npm home "Nome-da-Dependência"</td>
     <td>Exibe ao site oficial da dependência informada (exemplo: axios, react, express)</td>
   </tr>   
 
   <tr>
-    <td>node dedup</td>
+    <td>npm dedup</td>
     <td>Remove a duplicidade de Dependências, <a href="https://docs.npmjs.com/cli/v8/commands/npm-dedupe">Dedup</a></td>
   </tr>       
 
   <tr>
-    <td>node run</td>
+    <td>npm run</td>
     <td>Listar os scripts de iniciação</td>
   </tr> 
 
   <tr>
-    <td>node start</td>
+    <td>npm start</td>
     <td>Inicia o projeto usando o "run start"</td>
   </tr> 
   
