@@ -239,7 +239,7 @@
   </tr>  
 
   <tr>
-    <td>node view "Nome-da-Dependência"</td>
+    <td>npm view "Nome-da-Dependência"</td>
     <td>Exibe todas as informações da dependência informada</td>
   </tr> 
 
